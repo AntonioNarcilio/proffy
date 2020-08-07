@@ -11,6 +11,8 @@ import './styles.css';
 interface PageHeaderProps {
 	// recebendo um title que é uma string e é obrigatório
 	title: string;
+	// 🎯 ? => significa que a propriedade não é obrigatória
+	description?:string;
 }
 
 // 🎯 Fazendo com com o componente saiba que se deve usar a propriedade definida acima
@@ -27,6 +29,9 @@ const PageHeader: React.FunctionComponent<PageHeaderProps> = (props) => {
 
 			<div className="header-content">
 				<strong>{props.title}</strong>
+
+				{/* 🎯 Se description existir  então  mostrar description */}
+				{ props.description && <p>{props.description}</p> }
 
 				{props.children}
 			</div>
