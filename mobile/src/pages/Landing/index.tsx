@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Image, Text } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 // Dependência que vem junto com o pacote de navegação 'react-navigation...
 import { RectButton } from 'react-native-gesture-handler';
+
+import api from '../../services/api';
 
 import styles from './styles';
 
@@ -15,6 +17,25 @@ function Landing() {
 
 	// { navigate } => desestruturação
 	const { navigate } = useNavigation();
+
+	// 🎯 Conectando com API
+	const [totalConnections, setTotalConnections] = useState(0);
+
+	// 1° parâmetro uma função
+	// 2° um array
+	// 🎯 Toda vez que as informações do 2° parâmetro sofrerem alterações
+	// 			a função do 1° parâmetro deve ser executada
+
+	// Obs: caso queira que a função execute uma unica vez é só deixa o array vazio
+	useEffect(() => {
+		api.get('connections').then(response => {
+			const { total } = response.data;
+
+			setTotalConnections(total);
+		})
+	}, []);
+
+
 	// Navegação
 	function HandleNavigationToGiveClassesPage() {
 		// Passando o nome que esta dentro de name={} em AppStack para definir a tela que irá navegar
@@ -60,7 +81,7 @@ function Landing() {
 				</View>
 
 				<Text style={styles.totalConnections}>
-						Total de 285 conexões já realizadas {' '}
+						Total de {totalConnections} conexões já realizadas {' '}
 						<Image source={heartIcon} />
 				</Text>
 
