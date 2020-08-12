@@ -1,5 +1,5 @@
  
-## Proffy 👨‍🏫
+## Proffy 👨‍🏫  NLW#2
 
 ---
 
@@ -17,17 +17,12 @@ O projeto tem esse nome em homenagem ao dia do profissional da educação (06 de
 ### 🚀 **Ferramentas/Tecnologias utilizadas no desenvolvimento:**
 
 
-1️⃣ [NodeJs](https://nodejs.org/en/)
-
-2️⃣ [Gerenciador de pacote Yarn](https://yarnpkg.com)
-
-3️⃣ [Biblioteca ReactJs](https://pt-br.reactjs.org)
-
-4️⃣ [Biblioteca React Native](https://reactnative.dev)
-
-5️⃣ [Expo](https://expo.io)
-
-6️⃣ [TypeScript](https://www.typescriptlang.org)
+1️⃣&ensp;[NodeJs](https://nodejs.org/en/) <br/>
+2️⃣&ensp;[Gerenciador de pacote Yarn](https://yarnpkg.com) <br/>
+3️⃣&ensp;[Biblioteca ReactJs](https://pt-br.reactjs.org) <br/>
+4️⃣&ensp;[Biblioteca React Native](https://reactnative.dev) <br/>
+5️⃣&ensp;[Expo](https://expo.io) <br/>
+6️⃣&ensp;[TypeScript](https://www.typescriptlang.org)
 
 <br/>
 
