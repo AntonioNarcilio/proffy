@@ -3,30 +3,35 @@
 
 ---
 
-#### **Porque Proffy? Qual o significado?** 🤔
+### **Porque Proffy? Qual o significado?** 🤔
 
 
 
 O projeto tem esse nome em homenagem ao dia do profissional da educação (06 de Agosto), onde por volta do "ensino médio" os alunos tinham ou ainda tem "não sei  ao exato :) " a mania  de chamar os professores de profi, por esse motivo o nome dado ao projeto de **Proffy**, fazendo uma referência a eles (os professores) já que esta data caiu durante a semana que ocorreu o Next Level Week 2° edição (03 a 09 de agosto de 2020).
 
-<img src="./.github/display_home-mobile&desktop.png" style="border-radius: 8px;"/>
+<img src="./.github/display_home-mobile&desktop.png" border="8"/>
 
 
 <br/>
 
-##### 🚀 **Ferramentas/Tecnologias utilizadas no desenvolvimento:**
+### 🚀 **Ferramentas/Tecnologias utilizadas no desenvolvimento:**
 
 
 1️⃣ [NodeJs](https://nodejs.org/en/)
+
 2️⃣ [Gerenciador de pacote Yarn](https://yarnpkg.com)
+
 3️⃣ [Biblioteca ReactJs](https://pt-br.reactjs.org)
+
 4️⃣ [Biblioteca React Native](https://reactnative.dev)
+
 5️⃣ [Expo](https://expo.io)
+
 6️⃣ [TypeScript](https://www.typescriptlang.org)
 
 <br/>
 
-##### 🚧 **Portas utilizadas**
+### 🚧 **Portas utilizadas**
 
 Servidor 🌐 | Porta 🚪
 ---------:|:--------
@@ -36,7 +41,7 @@ front-end |  3000
 
 <br/>
 
-##### ⬇️ **Utilizando projeto localmente**
+### ⬇️ **Utilizando projeto localmente**
 
 
 >No diretório desejado execute no terminal o código abaixo ou clique [aqui](https://github.com/AntonioNarcilio/proffy/archive/master.zip) para baixar todo o diretório.
@@ -68,7 +73,7 @@ yarn start
 
 <br>
 
-##### 🙏 Agradecimento
+### 🙏 Agradecimento
 
 [rocketseat](https://rocketseat.com.br)
 
