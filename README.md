@@ -79,7 +79,7 @@ yarn start
 yarn install
 ~~~
 
-> E caso queira testar o `app mobile`, dentro do diretório/pasta execute o mesmo comando dos demais no terminal. 
+> E por fim execute o mesmo comando dos demais para iniciar o projeto. 
 
 ~~~bash
 yarn start
