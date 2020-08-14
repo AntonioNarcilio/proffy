@@ -45,33 +45,41 @@ front-end |  3000
 git clone https://github.com/AntonioNarcilio/proffy.git
 ~~~
 
-> Depois dentro do diretório/pasta `server` execute no terminal para iniciar o servidor do back-end.
+> Depois dentro do diretório/pasta `server` execute no terminal para baixar as dependências do servidor back-end.
 
 ~~~bash
 yarn install
 ~~~
 
+> Depois dentro do diretório/pasta `server` execute no terminal para iniciar o servidor do back-end.
+
 ~~~bash
 yarn start
 ~~~
 
+---
+
+> Depois dentro do diretório/pasta `web` execute no terminal para baixar as dependências do servidor front-end.
+
+~~~bash
+yarn install
+~~~
 
 > Depois dentro do diretório/pasta `web` execute no terminal o mesmo código para iniciar o servidor do front-end.
 
 ~~~bash
-yarn install
-~~~
-
-~~~bash
 yarn start
 ~~~
 
-> E caso queira testar o `app mobile`, dentro do diretório/pasta execute o mesmo código no terminal. 
+---
 
+> E caso queira testar o `app mobile`, dentro do diretório/pasta execute o código no terminal para baixar as dependências do projeto mobile. 
 
 ~~~bash
 yarn install
 ~~~
+
+> E caso queira testar o `app mobile`, dentro do diretório/pasta execute o mesmo código dos demais no terminal. 
 
 ~~~bash
 yarn start
