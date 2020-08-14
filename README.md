@@ -18,10 +18,10 @@ O projeto tem esse nome em homenagem ao dia do profissional da educação (06 de
 
 
 1️⃣&ensp;[NodeJs](https://nodejs.org/en/) <br/>
-2️⃣&ensp;[Gerenciador de pacote Yarn](https://yarnpkg.com) <br/>
+2️⃣&ensp;[Gerenciador de pacote Yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) <br/>
 3️⃣&ensp;[Biblioteca ReactJs](https://pt-br.reactjs.org) <br/>
 4️⃣&ensp;[Biblioteca React Native](https://reactnative.dev) <br/>
-5️⃣&ensp;[Expo](https://expo.io) <br/>
+5️⃣&ensp;[Expo](https://docs.expo.io/get-started/installation/) <br/>
 6️⃣&ensp;[TypeScript](https://www.typescriptlang.org)
 
 <br/>
@@ -48,6 +48,10 @@ git clone https://github.com/AntonioNarcilio/proffy.git
 > Depois dentro do diretório/pasta `server` execute no terminal para iniciar o servidor do back-end.
 
 ~~~bash
+yarn install
+~~~
+
+~~~bash
 yarn start
 ~~~
 
@@ -55,14 +59,25 @@ yarn start
 > Depois dentro do diretório/pasta `web` execute no terminal o mesmo código para iniciar o servidor do front-end.
 
 ~~~bash
+yarn install
+~~~
+
+~~~bash
 yarn start
 ~~~
 
 > E caso queira testar o `app mobile`, dentro do diretório/pasta execute o mesmo código no terminal. 
 
+
+~~~bash
+yarn install
+~~~
+
 ~~~bash
 yarn start
 ~~~
+
+> Caso não tenha o **Expo CLI** instalado na máquina o procedimento de instalação se encontra [aqui](https://docs.expo.io/get-started/installation/)
 
 > Espere abrir uma pagina relacionado ao expo no seu navegador padrão, caso a opção de conexão `LAN` não esteja selecionado, selecione-a e depois leia o qr code utilizando o app do expo no celular e pronto é só aguarda a aplicação carregar :).
 
