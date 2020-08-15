@@ -31,6 +31,7 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/AntonioNarcilio/proffy?&color=8257e5&labelColor=282a36)
 ![GitHub top language](https://img.shields.io/github/languages/top/AntonioNarcilio/proffy?&color=8257e5&labelColor=282a36)
+![GitHub All Releases](https://img.shields.io/github/downloads/AntonioNarcilio/proffy/total?&color=8257e5&labelColor=282a36)
 
 ---
 
