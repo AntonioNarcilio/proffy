@@ -51,7 +51,7 @@ O projeto tem esse nome em homenagem ao dia do profissional da educação (06 de
 
 ### 🚀 **Atualmente na plataforma do proffy você consegui:**
 - [x] Se cadastrar como proffy 
-- [x] Listar os proffys cadrastados
+- [x] Listar os proffys cadastrados
 - [x] Entrar em contato via whatsapp com o proffy
 
 <br/>
