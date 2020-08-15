@@ -32,13 +32,14 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/AntonioNarcilio/proffy?&color=8257e5&labelColor=282a36)
 ![GitHub top language](https://img.shields.io/github/languages/top/AntonioNarcilio/proffy?&color=8257e5&labelColor=282a36)
 
+---
 
 ### O que é a plataforma ❓
 
 O Proffy é uma plataforma de estudos online. Através dela, alunos conseguem se conectar com os professores para que possa ocorre as aulas online.
 
 
-### **Porque Proffy? Qual o significado?** 🤔
+### Porque Proffy? Qual o significado? 🤔
 
 O projeto tem esse nome em homenagem ao dia do profissional da educação (06 de Agosto), onde por volta do "ensino médio" os alunos tinham ou ainda tem "não sei  ao exato :) " a mania  de chamar os professores de profi, por esse motivo o nome dado ao projeto de **Proffy**, fazendo uma referência a eles (os professores) já que esta data caiu durante a semana que ocorreu o Next Level Week 2° edição (03 a 09 de agosto de 2020).
 
