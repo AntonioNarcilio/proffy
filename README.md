@@ -68,7 +68,7 @@ front-end |  3000
 
 ### ⬇️ **Utilizando projeto localmente**
 
->No diretório desejado execute no terminal o código abaixo ou clique [aqui](https://github.com/AntonioNarcilio/proffy/archive/master.zip) para baixar todo o diretório.
+>No diretório desejado execute no terminal o código abaixo ou clique [aqui](https://github.com/AntonioNarcilio/proffy/releases) para baixar a release mais atual.
 
 ~~~bash
 git clone https://github.com/AntonioNarcilio/proffy.git
