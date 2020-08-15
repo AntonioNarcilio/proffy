@@ -128,6 +128,8 @@ yarn start
 
 ### 🙏 Agradecimento
 
-[rocketseat](https://rocketseat.com.br)
+<a href="https://rocketseat.com.br">
+ <img src="https://img.shields.io/static/v1?label=rocketseat&message=ir&color=8257e5&labelColor=282a36&style=flat&logo=Apache%20RocketMQ&logoColor=white" alt="rocketseat"/>
+</a>
 
 
