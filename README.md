@@ -98,7 +98,7 @@ yarn start
 
 > Basta clicar : 
 
-&ensp;&ensp;[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgist.githubusercontent.com%2FAntonioNarcilio%2F610b7a5209b8c5888649272cdef775b5%2Fraw%2F4a5f475684a1438d6a4ef8a7f529a30e770749f2%2Finsomnia-proffy)
+&ensp;&ensp;[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgist.githubusercontent.com%2FAntonioNarcilio%2Fb37f155fbcd8554ee1f6c1175400a745%2Fraw%2F792a83e8581fc8531ceed3da09dbcb7816fa3785%2Fproffy-insomnia)
 
 > Depois em `import Proffy` que irá lhe direcionar para uma pagina contendo um arquivo no formato de JSON, copie a url e depois no insomnia va em:
 
