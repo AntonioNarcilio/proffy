@@ -2,7 +2,7 @@
 ## Proffy 👨‍🏫  NLW#2
 
 <a href="https://nodejs.org/en/">
- <img src="https://img.shields.io/static/v1?label=node%20js&message=framework&color=339933&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
+ <img src="https://img.shields.io/static/v1?label=node%20js&message=javascript%20runtime%20environment&color=339933&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
 </a>
 
 
