@@ -40,7 +40,7 @@
 
 ### O que é a plataforma ❓
 
-O Proffy é uma plataforma de estudos online. Através dela, alunos conseguem se conectar com os professores para que possa ocorre as aulas online.
+O Proffy é uma plataforma de estudos online. Através dela, alunos conseguem se conectar com os professores para que possa ocorrer as aulas online.
 
 
 ### Porque Proffy? Qual o significado? 🤔
@@ -53,7 +53,7 @@ O projeto tem esse nome em homenagem ao dia do profissional da educação (06 de
 <br/>
 
 
-### 🚀 **Atualmente na plataforma do proffy você consegui:**
+### 🚀 **Atualmente na plataforma do proffy você consegue:**
 - [x] Se cadastrar como proffy 
 - [x] Listar os proffys cadastrados
 - [x] Entrar em contato via whatsapp com o proffy
@@ -100,7 +100,7 @@ yarn start
 
 &ensp;&ensp;[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgist.githubusercontent.com%2FAntonioNarcilio%2Fb37f155fbcd8554ee1f6c1175400a745%2Fraw%2F792a83e8581fc8531ceed3da09dbcb7816fa3785%2Fproffy-insomnia)
 
-> Depois em `import Proffy` que irá lhe direcionar para uma pagina contendo um arquivo no formato de JSON, copie a url e depois no insomnia va em:
+> Depois em `import Proffy` que irá lhe direcionar para uma página contendo um arquivo no formato de JSON, copie a url e depois no insomnia vá em:
 
   &ensp;&ensp;<kbd>Application</kbd> <kbd>></kbd> <kbd>Preferences</kbd> <kbd>></kbd> <kbd>Data</kbd> <kbd>></kbd> <kbd>Import Data</kbd> <kbd>></kbd> <kbd>From URL</kbd>
   
@@ -124,7 +124,7 @@ yarn install
 yarn start
 ~~~
 
-> Pronto 🎊 automaticamente abrirá em seu navegador padrão a pagina web
+> Pronto 🎊 automaticamente abrirá em seu navegador padrão a página web
 
 ---
 
@@ -146,7 +146,7 @@ yarn start
 
 > Caso não tenha o **Expo CLI** instalado na máquina o procedimento de instalação se encontra [aqui](https://docs.expo.io/get-started/installation/)
 
-> Espere abrir uma pagina relacionado ao expo no seu navegador padrão, caso a opção de conexão `LAN` não esteja selecionado, selecione-a e depois leia o `qr code` utilizando o app do expo no celular e pronto é só aguarda a aplicação carregar ☺.
+> Espere abrir uma pagina relacionado ao expo no seu navegador padrão, caso a opção de conexão `LAN` não esteja selecionado, selecione-a e depois leia o `qr code` utilizando o app do expo no celular e pronto é só aguardar a aplicação carregar ☺.
 
 <br>
 
@@ -155,5 +155,3 @@ yarn start
 <a href="https://rocketseat.com.br">
  <img src="https://img.shields.io/static/v1?label=rocketseat&message=ir&color=8257e5&labelColor=282a36&style=flat&logo=Apache%20RocketMQ&logoColor=white" alt="rocketseat"/>
 </a>
-
-
